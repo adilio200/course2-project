@@ -45,8 +45,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
       });
       } catch (error) {
         return res.status(422).send({ message: 'Send a valid image' });
-      }
-      
+      }   
     }else{
       return res.status(400).send({ message: 'Image url is required' });
     }
