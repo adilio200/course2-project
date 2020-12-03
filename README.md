@@ -6,6 +6,7 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 GIT REPO:
 https://github.com/adilio200/course2-project.git
+
 https://github.com/adilio200/course2-project
 
 EB_URL:
